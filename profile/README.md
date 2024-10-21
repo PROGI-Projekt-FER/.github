@@ -21,15 +21,16 @@ Kratko opisati cilj Vašeg projekta. Vaša motivacija?  (Napomena: odgovor nije 
 
 # Tehnologije
 
-#Instalcija
+# Instalcija
+
 # Članovi tima 
+Pavle Ergović (voditelj), https://github.com/FERpavleerg</br>
 Matko Papić, https://github.com/matko-papic-fer</br>
-Roko Šabić,</br>
-Fran Krušelj,</br>
-Noa Deur,</br>
-Mia Periš,</br>
-Pavle Ergović,</br>
-Luka Stubičan,</br>
+Roko Šabić, https://github.com/rs55056</br>
+Fran Krušelj, https://github.com/kruseljfran</br>
+Noa Deur, https://github.com/Noa-Deur</br>
+Mia Periš, https://github.com/miap18</br>
+Luka Stubičan, https://github.com/luka-stubican</br>
 
 # Kontribucije
 >Pravila ovise o organizaciji tima i su često izdvojena u CONTRIBUTING.md
