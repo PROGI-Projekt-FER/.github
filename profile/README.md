@@ -15,7 +15,7 @@ Cilj projekta „TicketSwapper“ je olakšati ovaj proces stvaranjem sigurne i 
 
 | ID zahtjeva | Opis | Prioritet | Izvor | Kriteriji prihvaćanja |
 |----|----------|----------|----------|----------|
-| F-001 | Sustav omogućuje prijavu korisniku pomoću vjerodajnica vanjskih identiteta | Visok | Zahtjev dionika | Korisnik se može prijaviti koristeći vanjski identitet (Google OAuth). |
+| F-001 | Sustav omogućuje prijavu korisniku s pomoću vjerodajnica vanjskih identiteta | Visok | Zahtjev dionika | Korisnik se može prijaviti koristeći vanjski identitet (Google OAuth). |
 | F-002 | Sustav omogućuje korisnicima pregled dostupnih događaja i ulaznica prema kriterijima (datum, lokacija, vrsta) | Visok | Zahtjev dionika | Korisnik može filtrirati događaje prema navedenim kriterijima. |
 | F-003 | Sustav omogućuje korisnicima kupovinu i prodaju ulaznica za specifične događaje. | Visok | Zahtjev dionika | Korisnik može kupiti ili prodati ulaznice za određeni događaj. |
 | F-004 | Sustav omogućuje korisnicima slanje i primanje obavijesti vezanih uz status događaja (promjena datuma, slobodne ulaznice). | Srednji | Povratne informacije korisnika | Korisnik prima obavijesti o promjenama statusa događaja ili ulaznica. |
@@ -34,7 +34,6 @@ Backend: Spring
 
 Baza podataka: PostgreSQL
 
-# Instalcija
 
 # Članovi tima 
 Pavle Ergović (voditelj), https://github.com/FERpavleerg</br>
